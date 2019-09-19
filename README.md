@@ -1,1 +1,1 @@
-# spacecats
+# SpaceCats
